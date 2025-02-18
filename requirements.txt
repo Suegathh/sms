@@ -11,11 +11,9 @@ django-crispy-forms==2.3
 dnspython==2.7.0
 gunicorn==23.0.0
 idna==3.10
-mysql-connector-python==9.2.0
 packaging==24.2
 pillow==11.1.0
-psycopg2-binary==2.9.10
-pymongo==10.10.10.10
+psycopg2==2.9.10
 python-decouple==3.8
 requests==2.32.3
 six==1.17.0
